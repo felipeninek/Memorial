@@ -28,7 +28,7 @@ SECRET_KEY = "django-insecure-lafdda^^(g5fbz^-0z8$i4qhou*%4tpnp)=e_^g@)$*_%bci(s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'https://memorial-y76u.onrender.com']
 
 
 # Application definition
